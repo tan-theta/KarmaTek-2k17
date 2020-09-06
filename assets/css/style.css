@@ -1331,7 +1331,7 @@ transform: translate(-50%, -50%);
     color: #f3d9b4;
     border: 3px solid #f3d9b4;
     padding: 10px;
-   font-family: 'Lato';
+   font-family: 'Poppins','sans-serif';
     -webkit-transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
     transition: all .3s ease-in-out; 
@@ -1380,7 +1380,7 @@ transform: translate(-50%, -50%);
     float: right;
     list-style: none;
     margin-top: 20px;
-    font-family: 'Lato';
+    font-family: 'Poppins','sans-serif';
     
 }
 
@@ -1459,7 +1459,7 @@ transform: translate(-50%, -50%);
 .navbar-default .navbar-nav li>a{
     color: #f3d9b4;
     
-    font-family: 'Lato';
+   font-family: 'Poppins','sans-serif';
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
     font-variant: small-caps;
@@ -1467,7 +1467,7 @@ transform: translate(-50%, -50%);
 .navbar-default .navbar-nav li>a:hover{
     color: #f3d9b4;
     transform: scale(1.2);
-    font-family: 'Lato';
+    font-family: 'Poppins','sans-serif';
     font-variant: small-caps;
     background-color: transparent;
     text-decoration: underline;
@@ -1504,6 +1504,6 @@ select optgroup {
     
 }
 .karmatek-text {
-    font-family: 'Lato';
+    font-family: 'Poppins','sans-serif';
     font-weight: 500;
 }
